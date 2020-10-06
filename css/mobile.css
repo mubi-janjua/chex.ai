@@ -1,4 +1,6 @@
 @media only screen and (max-width: 768px) {
+
+
     header .navbar-brand {
         padding-left: 1rem;
     }
@@ -11,13 +13,11 @@ footer .row .col-md-2 {
 /* screen size 375px */
 
 @media only screen and (max-width: 375px) {
-    .section-4 .card {
-        width: 18em;
+    .dot-img {
+        margin-left: -5em;
+        margin-top: 22px;
     }
+
 }
 
-@media only screen and (max-width: 320px) {
-    .section-4 .carousel-inner {
-        margin-left: -4vmin;
-    }
-}
+@media only screen and (max-width: 320px) {}
